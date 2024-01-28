@@ -1,7 +1,6 @@
 ### Olá, meu nome é Andrews Gomes 👋
 
-- 🔭 Atualmente estou trabalhando em Consultoria de implantação
-- 🌱 Atualmente estou aprendendo Front-End e desenvolvimento web
+Sou um entusiastas pela tecnologia e aprendizado. Atualmente estou trabalhando como consultor na Fácil, desenvolvedora do sistema Espaider, focado em sistemas júridicos. Estou sempre buscando novos desafios e oportunidades para crescer profissionalmente e pessoalmente.
 
 ## Linguagens e Ferramentas 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
