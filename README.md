@@ -13,6 +13,11 @@ Sou um entusiasta pela tecnologia e aprendizado. Atualmente estou trabalhando co
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=andrewsga89&show_icons=true&theme=tokyonight"/>
 </div>
 
+
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewsga89&hide_progress=true"/>
+
+
+
 ## Contatos:
 
 <div>
