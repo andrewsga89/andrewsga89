@@ -21,7 +21,6 @@
 
 <div>
 <a href="https://github.com/andrewsga89">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewsga89&layout=compact&langs_count=7&theme=radical"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=andrewsga89&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=andrewsga89&show_icons=true&count_private=true&theme=dracula)
 </div>
 
