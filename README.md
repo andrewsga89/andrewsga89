@@ -10,7 +10,7 @@ Sou um entusiasta pela tecnologia e aprendizado. Atualmente estou trabalhando co
 <div>
 <a href="https://github.com/andrewsga89">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewsga89&layout=compact&langs_count=7&theme=tokyonight"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=andrewsga89&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight"/>
 </div>
 
 ## Contatos:
