@@ -5,12 +5,13 @@ Sou um entusiasta pela tecnologia e aprendizado. Atualmente estou trabalhando co
 ## Linguagens e Ferramentas
 
 <div style="display: inline_block"><br>
-<img  align="center" alt="Andrews-React" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img  align="center" alt="Andrews-Node" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img  align="center" alt="Andrews-Js" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>  
-<img  align="center" alt="Andrews-HTML "width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img  align="center" alt="Andrews-CSS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Andrews-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Andrews-Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Andrews-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Andrews-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Andrews-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
 
 ## Estatísticas
 
@@ -24,5 +25,5 @@ Sou um entusiasta pela tecnologia e aprendizado. Atualmente estou trabalhando co
 
 <div>
 <a href = "mailto:andrews.ga89@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/andrews-gomes-de-alcântara-626a459a" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/andrews-gomes-de-alcântara-626a459a" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%240077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
