@@ -29,5 +29,5 @@ Sou um entusiasta pela tecnologia e aprendizado. Atualmente estou trabalhando co
 </div>
 
 <div> 
-[![Board Status](https://dev.azure.com/andrewsgomes0078/937c2334-8c0a-4b9e-b9b1-b14bc8057a1f/75db9839-79b1-48a7-8c36-4ccd7cf794d6/_apis/work/boardbadge/2477a142-b68d-4183-8ee1-a03c6eb406ac)](https://dev.azure.com/andrewsgomes0078/937c2334-8c0a-4b9e-b9b1-b14bc8057a1f/_boards/board/t/75db9839-79b1-48a7-8c36-4ccd7cf794d6/Stories/)
+<a href="https://dev.azure.com/andrewsgomes0078/937c2334-8c0a-4b9e-b9b1-b14bc8057a1f/75db9839-79b1-48a7-8c36-4ccd7cf794d6/_apis/work/boardbadge/2477a142-b68d-4183-8ee1-a03c6eb406ac" target="_blank"></a>
 </div>
