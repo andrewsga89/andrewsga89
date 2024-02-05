@@ -27,7 +27,3 @@ Sou um entusiasta pela tecnologia e aprendizado. Atualmente estou trabalhando co
   <a href = "mailto:andrews.ga89@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andrews-gomes-de-alcântara-626a459a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<div> 
-<a href="[![Board Status](https://dev.azure.com/andrewsgomes0078/937c2334-8c0a-4b9e-b9b1-b14bc8057a1f/75db9839-79b1-48a7-8c36-4ccd7cf794d6/_apis/work/boardbadge/2477a142-b68d-4183-8ee1-a03c6eb406ac)](https://dev.azure.com/andrewsgomes0078/937c2334-8c0a-4b9e-b9b1-b14bc8057a1f/_boards/board/t/75db9839-79b1-48a7-8c36-4ccd7cf794d6/Stories/)"><img src="https://dev.azure.com/andrewsgomes0078/937c2334-8c0a-4b9e-b9b1-b14bc8057a1f/75db9839-79b1-48a7-8c36-4ccd7cf794d6/_apis/work/boardbadge/2477a142-b68d-4183-8ee1-a03c6eb406ac" target="_blank"></a>
-</div>
