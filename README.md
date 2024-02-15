@@ -29,5 +29,5 @@ Sou um entusiasta pela tecnologia e aprendizado. Atualmente estou trabalhando co
 </div>
 
 ##
-
 ![Snake animation](https://github.com/andrewsga89/andrewsga89/blob/output/github-contribution-grid-snake-dark.svg)
+##
