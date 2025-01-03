@@ -1,6 +1,6 @@
 ### Olá, meu nome é Andrews Gomes :metal:
 
-Sou um entusiasta pela tecnologia e aprendizado. Atualmente estou trabalhando como consultor na Fácil, desenvolvedora do sistema Espaider, focado em sistemas júridicos. Estou sempre buscando novos desafios e oportunidades para crescer profissionalmente e pessoalmente.
+Sou um entusiasta pela tecnologia e aprendizado. Atualmente estou trabalhando como consultor de impalantação de sistemas. Estou sempre buscando novos desafios e oportunidades para crescer profissionalmente e pessoalmente.
 
 ## Linguagens e Ferramentas
 
