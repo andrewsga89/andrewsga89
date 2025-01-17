@@ -26,6 +26,7 @@ Sou um entusiasta pela tecnologia e aprendizado. Atualmente estou trabalhando co
 
 <div> 
   <a href = "mailto:andrews.ga89@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:andrews.gomes@outlook.com"><img alt="Static Badge" src="https://img.shields.io/badge/Outlook-blue"></a>
   <a href="https://www.linkedin.com/in/andrews-gomes-de-alcântara-626a459a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
